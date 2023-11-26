@@ -4,19 +4,19 @@
 <p align="center">
     <a href="https://discord.gg/3TCZRYafhW">
         <img src="https://img.shields.io/discord/1020806104881561754?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
-    <a href="https://github.com/forscht/asmodeus/actions/workflows/lint.yml">
-        <img src="https://github.com/forscht/asmodeus/actions/workflows/lint.yml/badge.svg">
+    <a href="https://github.com/academicgit/asmodeus/actions/workflows/lint.yml">
+        <img src="https://github.com/academicgit/asmodeus/actions/workflows/lint.yml/badge.svg">
     </a>
-    <a href="https://hub.docker.com/r/forscht/asmodeus">
-        <img src="https://img.shields.io/docker/v/forscht/asmodeus?logo=docker">
+    <a href="https://hub.docker.com/r/academicgit/asmodeus">
+        <img src="https://img.shields.io/docker/v/academicgit/asmodeus?logo=docker">
     </a>
-    <a href="https://hub.docker.com/r/forscht/asmodeus">
-        <img src="https://img.shields.io/docker/pulls/forscht/asmodeus.svg?logo=docker">
+    <a href="https://hub.docker.com/r/academicgit/asmodeus">
+        <img src="https://img.shields.io/docker/pulls/academicgit/asmodeus.svg?logo=docker">
     </a>
-    <a href="https://github.com/forscht/asmodeus/actions/workflows/codeql-analysis.yml">
-        <img src="https://github.com/forscht/asmodeus/actions/workflows/codeql-analysis.yml/badge.svg">
+    <a href="https://github.com/academicgit/asmodeus/actions/workflows/codeql-analysis.yml">
+        <img src="https://github.com/academicgit/asmodeus/actions/workflows/codeql-analysis.yml/badge.svg">
     </a>
-    <a href="https://github.com/forscht/asmodeus/blob/v2/LICENSE">
+    <a href="https://github.com/academicgit/asmodeus/blob/v2/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
 
@@ -58,7 +58,6 @@ This next major version release 4.0 is asmodeus written from scratch. It comes w
 - asmodeus now has proper rest API with OpenAPI 3.1 standards
 - Added support for dark/light mode on panel
 
-I spent several weeks finalizing this new version.  Any support is highly appreciated - [Buy me a coffee](https://www.buymeacoffee.com/forscht)
 
 ### Requirements
 - NodeJS v16.x or Docker
@@ -171,6 +170,6 @@ Migrating asmodeus v3 to v4 is one way process once you migrate asmodeus to v4 a
 8. Run `node bin/migrate old_data.json`
 9. After few seconds once process is done you should see the message `Migration is done`
 
-Feel free to create [new issue](https://github.com/forscht/asmodeus/issues/new) if it's not working for you or need any help.
+Feel free to create [new issue](https://github.com/academicgit/asmodeus/issues/new) if it's not working for you or need any help.
 
 [Discord Support server](https://discord.gg/3TCZRYafhW)
